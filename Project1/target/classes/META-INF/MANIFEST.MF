@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: mandy
+Build-Jdk: 17.0.9
+Main-Class: com.data.App
+Created-By: Maven Integration for Eclipse
+
