@@ -83,26 +83,7 @@
 					<artifactId>maven-project-info-reports-plugin</artifactId>
 					<version>3.0.0</version>
 				</plugin>
-				<plugin>
-            <groupId>org.codehaus.mojo</groupId>
-            <artifactId>cobertura-maven-plugin</artifactId>
-            <version>2.6</version>
-            <configuration>
-                <formats>
-                    <format>xml</format>
-		    <format>html</format>
-                </formats>
-                <check/>
-            </configuration>
-            <executions>
-                <execution>
-                    <phase>package</phase>
-                    <goals>
-                        <goal>cobertura</goal>
-                    </goals>
-                </execution>
-            </executions>
-        </plugin>
+		
 		
 
 				
