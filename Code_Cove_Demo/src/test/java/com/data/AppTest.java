@@ -30,7 +30,7 @@ App app;
 	
 	@Before
 	public void init() {
-		App app=new App();
+           app=new App();
 	}
 
     @Test
